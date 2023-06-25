@@ -55,33 +55,6 @@
 </ul>
 
 
-<h4>Authors</h4>
 
-<ul>
-<li>Pravhat Ray</li>
-<ul>
-<li><a href="https://github.com/pravhatray"  >Github</a></li>
-<li><a href="linkedin.com/in/pravhat-ray-842851236"  >LinkedIn Profile </a></li>
-<li><a href="pravhatray@gmail.com "  >G-mail</a></li>
-</ul>
-<li>Shubham Singh</li>
-<ul>
-<li><a href="https://github.com/shubhamksingh"  >Github</a></li>
-<li><a href="https://www.linkedin.com/in/shubham-singh-b54376247/"  >LinkedIn Profile </a></li>
-<li><a href="shubhsingh0795@gmail.com"  >G-mail</a></li>
-</ul>
-<li>Alisha Mohasin</li>
-<ul>
-<li><a href="https://github.com/AlishaMohasin"  >Github</a></li>
-<li><a href="https://www.linkedin.com/in/alishamohasin/"  >LinkedIn Profile </a></li>
-<li><a href="alishamohasin859@gmail.com"  >G-mail</a></li>
-</ul>
-<li>Vivek Rana</li>
-<ul>
-<li><a href="https://github.com/vivek13420"  >Github</a></li>
-<li><a href="https://www.linkedin.com/in/vivek-rana-74bb9a220/"  >LinkedIn Profile </a></li>
-<li><a href="vivekrana13420@gmail.com"  >G-mail</a></li>
-</ul>
 
-</ul>
 
